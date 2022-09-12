@@ -28,7 +28,7 @@ const Navbar = () => {
                 </div>
                 
                 
-                <h6 className="pr-2 normal-case navbar-center hidden lg:flex text-primary text-xl p-5">Doc <span className='text-secondary' >mic .</span> </h6>
+                <h6 className="p-6 normal-case navbar-center hidden lg:flex text-primary text-xl p-5">Doc <span className='text-secondary' >mic .</span> </h6>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal p-0">
